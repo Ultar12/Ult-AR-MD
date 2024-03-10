@@ -16,8 +16,8 @@
 <a href="https://github.com/LuciZR"><img title="Author" src="https://img.shields.io/badge/𝑴𝑰𝑨-𝑴𝑫-black?style=for-the-badge&logo=telegram"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/LuciZR?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/LuciZR?label=Followers&style=social"></a>
-<a href="https://github.com/LuciZR/Mia-Md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/LuciZR/Mia-Md?&style=social"></a>
+<a href="https://github.com/Ult-AR?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Ult-AR?label=Followers&style=social"></a>
+<a href="https://github.com/Ult-AR/Ult-AR MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Ult-AR/Ult-AR MD?&style=social"></a>
 <a href="https://github.com/LuciZR/Mia-Md/network/members"><img title="Fork" src="https://img.shields.io/github/forks/LuciZR/Mia-Md?style=social"></></a>
 </p>
 
@@ -46,14 +46,14 @@
 
 2. Get Session ID (Server 1)
     <br>
-<a href='https://qr-hazel-alpha.vercel.app/session' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://raganork-network.vercel.app/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
-## 𝑴𝑰𝑨 𝑴𝑫 2.0 Deploy Method
+## Ult-AR MD 3.0 Deploy Method
 
 ---
 ### Deploy Heroku 
 
-<a href="https://dashboard.heroku.com/new-app?template=https://github.com/LuciZrTest/lyfe"><img title="𝑴𝑰𝑨 𝑴𝑫 2.0 ⚠︎ Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
+<a href="https://dashboard.heroku.com/new-app?template=https://github.com/Ultar12/Ult-AR-MD"><img title="ULT-AR MD 3.0 ⚠︎ Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
 
 ---
 ### Heroku Tutorial
