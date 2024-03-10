@@ -2,7 +2,7 @@ FROM quay.io/souravkl11/rgnk-v3:latest
 
 
 
-RUN git clone https://github.com/souravkl11/raganork-md /skl/Raganork
+RUN git clone https://github.com/Ultar12/Ult-AR-MD /skl/Raganork
 
 WORKDIR /skl/Raganork
 
